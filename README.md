@@ -1,6 +1,6 @@
 # SportyShoe
 
-# This application is based on Springboot and Thymeleaf 
+### This application is based on Springboot and Thymeleaf 
 
 
 PROJECT DESCRIPTION :-
